@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+build.gradle
+
+# Local configuration file (sdkman related)
+.agd/
+
+# Minecraft
+*.log
+*.tps
+
+# JAR files
+*.jar
+*.zip
+*.tar
+*.gz
